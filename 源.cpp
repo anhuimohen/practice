@@ -16,7 +16,7 @@ int calculate(int x, int y)
 			return counter;
 		}
 }
-//tian
+//tian gong
 void game(int x, int y)
 {
 	if (calculate(x, y) == 0)
